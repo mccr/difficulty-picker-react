@@ -1,0 +1,11 @@
+.box {
+  border: solid 3px grey;
+  height: 250px;
+  width: 250px;
+}
+
+.main {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
