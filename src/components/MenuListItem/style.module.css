@@ -1,0 +1,10 @@
+.listItem:hover {
+  background-color: lightblue;
+}
+
+.listItem {
+  background-color: lightgray;
+  width: 100%;
+  text-align: center;
+  padding: 10px 0px;
+}

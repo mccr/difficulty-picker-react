@@ -1,4 +1,3 @@
-import { useState } from "react";
 import { MenuList } from "./components/MenuList/MenuList";
 import { DisplayDifficulty } from "./components/DisplayDifficulty/DisplayDifficulty";
 import "./global.css";

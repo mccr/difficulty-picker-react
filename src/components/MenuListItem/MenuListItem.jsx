@@ -1,4 +1,5 @@
+import style from "./style.module.css";
+
 export function MenuListItem(props) {
-  console.log(props);
-  return <li>set to: {props.listItem}</li>;
+  return <li className={style.listItem}>set to: {props.listItem}</li>;
 }
