@@ -7,4 +7,9 @@
   width: 100%;
   text-align: center;
   padding: 10px 0px;
+  cursor: pointer;
+}
+
+.selected {
+  background-color: lightpink;
 }
